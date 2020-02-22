@@ -1,0 +1,16 @@
+#buttonGestionar {
+  margin: auto;
+}
+#buttonRegistrarIngreso{
+  margin: auto;
+}
+#buttonInforme{
+  margin: auto;
+}
+#labelMenuPrin{
+  height: 200dp;
+  width: 1500px;
+  margin-bottom: 50px;
+
+  text-align: center;
+}
